@@ -50,7 +50,7 @@ Team Picker Pro is a clean, crisp, and slightly chaotic React web app that lets 
 
 ---
 
-## 📂 Folder Structure (Kinda Cute and Clean)
+## 📂 Folder Structure
 ```
 src/
 ├── assets/

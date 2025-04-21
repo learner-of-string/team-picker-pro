@@ -1,0 +1,92 @@
+[
+    {
+        "id": "p1",
+        "name": "Virat Kohli",
+        "country": "India",
+        "role": "Batsman",
+        "img": "https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg?w=376",
+        "skills": ["Right-Hand Bat", "Captaincy"],
+        "cost": 950000
+    },
+    {
+        "id": "p2",
+        "name": "Ben Stokes",
+        "country": "England",
+        "role": "All-Rounder",
+        "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/31/full/1680235601-1227.jpg",
+        "skills": ["Left-Hand Bat", "Fast Bowling"],
+        "cost": 880000
+    },
+    {
+        "id": "p3",
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "role": "Bowler",
+        "img": "https://api.bdcrictime.com/3506736-30_01_2025.jpg",
+        "skills": ["Left-Arm Fast", "Yorker Specialist"],
+        "cost": 760000
+    },
+    {
+        "id": "p4",
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "role": "Showroom Introducer",
+        "img": "https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/posts/30484/shakib-al-hasan.jpg",
+        "skills": ["Showroom Introducer", "Election instead of playing"],
+        "cost": 820000
+    },
+    {
+        "id": "p5",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "role": "Batsman",
+        "img": "https://economictimes.indiatimes.com/thumb/msid-105287296,width-1600,height-900,resizemode-4,imgsize-43766/kane-williamson.jpg?from=mdr",
+        "skills": ["Right-Hand Bat", "Calm Under Pressure"],
+        "cost": 790000
+    },
+    {
+        "id": "p6",
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "img": "https://cricketcupworld.com/wp-content/uploads/2024/06/Khan-rashid.webp",
+        "skills": ["Leg Spin", "Finisher"],
+        "cost": 740000
+    },
+    {
+        "id": "p7",
+        "name": "Lutfozzaman Babar",
+        "country": "Bangladesh",
+        "role": "Batsman(He kicks India)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDlcA2LQFj0Oc8_3vACVgySYyptYMtWx0DQ&s",
+        "skills": ["Right-Hand Bat", "Cover Drive"],
+        "cost": 860000
+    },
+    {
+        "id": "p8",
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "role": "Bowler",
+        "img": "https://thefederal.com/h-upload/2025/04/06/525127-jasprit-bumrah-mi-nets.webp",
+        "skills": ["Right-Arm Fast", "Death Overs"],
+        "cost": 900000
+    },
+    {
+        "id": "p9",
+        "name": "David Warner",
+        "country": "Australia",
+        "role": "Batsman",
+        "img": "https://www.zapcricket.com/cdn/shop/articles/WhatsApp_Image_2024-07-24_at_14.38.38.webp?v=1721812636",
+        "skills": ["Left-Hand Bat", "Aggressive Opener"],
+        "cost": 830000
+    },
+    {
+        "id": "p10",
+        "name": "Andre Russell",
+        "country": "West Indies",
+        "role": "All-Rounder",
+        "img": "https://assets.telegraphindia.com/telegraph/2024/Feb/1707871298_new-project-2.jpg",
+        "skills": ["Big Hitter", "Fast Bowling"],
+        "cost": 870000
+    }
+]

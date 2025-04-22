@@ -1,5 +1,4 @@
 import React from "react";
-import { Toaster } from "sonner";
 
 const EachPlayer = ({ player, selectYourPlayer }) => {
     const { name, country, role, img, skills, cost } = player;
@@ -56,7 +55,6 @@ const EachPlayer = ({ player, selectYourPlayer }) => {
                     </p>
                 </div>
                 <div>
-                    <Toaster richColors closeButton position="top-center" />
                     <button
                         className="border-[#1313131A] border-2 p-2 rounded-lg"
                         onClick={() => selectYourPlayer(player)}

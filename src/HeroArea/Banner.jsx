@@ -1,4 +1,3 @@
-import { Toaster } from "react-hot-toast";
 import logo from "./../assets/banner-main.png";
 import bannerBgShadow from "./../assets/bg-shadow.png";
 
@@ -26,7 +25,6 @@ const Banner = ({ getFreeBalance }) => {
             >
                 Claim Free Credit
             </button>
-            <Toaster />
         </div>
     );
 };
